@@ -1,4 +1,4 @@
-# crwatinf data base music store data or tables.
+# creating data base music store data or tables.
 
 
 create database music_database;
